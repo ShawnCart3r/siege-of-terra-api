@@ -1,0 +1,31 @@
+[
+    { "id": 1, 
+     "name": "Solar War", 
+     "author": "John French" },
+    {
+      "id": 2,
+      "name": "Lost and The Damned",
+      "author": "Guy Haley"
+    },
+    {
+        "id": 3,
+        "name": "Sons of the Selenar",
+        "author": "Graham Mcneill"
+      },
+    { "id": 4, 
+      "name": "First Wall", 
+      "author": "Gav Thrope" },
+    { "id": 5, 
+      "name": "Saturnine", 
+     "author": "Dan Abnettt" },
+     {
+        "id": 6,
+        "name": "Wrath of Magnus",
+        "author": "Graham Mcneill"
+      },
+    {
+      "id": 7,
+      "name": "Mortis",
+      "author": "John French"
+    }
+  ]
